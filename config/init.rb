@@ -13,4 +13,3 @@ class Application
     router.call(env)
   end
 end
-

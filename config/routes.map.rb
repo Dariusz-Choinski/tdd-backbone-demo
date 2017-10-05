@@ -16,4 +16,3 @@ module RoutesMap
     get '/users/:id/products/:id' => 'users_products#get'
   end
 end
-

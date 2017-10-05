@@ -1,5 +1,4 @@
 module BaseController
-
   def initialize
     @response = {status: nil,  headers: {}, body: ''}
   end
@@ -40,4 +39,3 @@ private
     value_array = hash_array.map {|hash| hash[column]}
   end
 end
-

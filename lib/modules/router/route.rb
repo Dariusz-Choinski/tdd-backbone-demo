@@ -52,4 +52,3 @@ private
     request_path.size != route_path.size
   end
 end
-
